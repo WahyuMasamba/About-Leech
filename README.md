@@ -1,4 +1,4 @@
-![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
+![MAXX LEECH V2](https://telegra.ph/file/797e2fd172b1b65bad264.jpg)
 
 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 
@@ -6,7 +6,7 @@
 
 #<b>Don't Kill Heroku please ☹️</b>
 
-[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
+[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://t.me/Collection_MovieTerbaik)
 
 
 # Benefits :-
@@ -247,13 +247,3 @@ the file will be uploaded as `new.txt`.
 
 * send any one of the available command, as a reply to a valid link/magnet/torrent. 👊
 
-
-## Credits, and Thanks to
-* [GautamKumar(me)](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
-* [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
-* [Rclone Team](https://rclone.org) for theirs awesome tool☁️
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
-* [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
-* [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
-* [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
